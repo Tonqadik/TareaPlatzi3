@@ -1,0 +1,15 @@
+C:\c#proyectos\TareaPlatzi3\Blackjack\bin\Debug\net8.0\TareaPlatzi3Blackjack.exe
+C:\c#proyectos\TareaPlatzi3\Blackjack\bin\Debug\net8.0\TareaPlatzi3Blackjack.deps.json
+C:\c#proyectos\TareaPlatzi3\Blackjack\bin\Debug\net8.0\TareaPlatzi3Blackjack.runtimeconfig.json
+C:\c#proyectos\TareaPlatzi3\Blackjack\bin\Debug\net8.0\TareaPlatzi3Blackjack.dll
+C:\c#proyectos\TareaPlatzi3\Blackjack\bin\Debug\net8.0\TareaPlatzi3Blackjack.pdb
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.AssemblyInfoInputs.cache
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.AssemblyInfo.cs
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.csproj.CoreCompileInputs.cache
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.sourcelink.json
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.dll
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\refint\TareaPlatzi3Blackjack.dll
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.pdb
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\TareaPlatzi3Blackjack.genruntimeconfig.cache
+C:\c#proyectos\TareaPlatzi3\Blackjack\obj\Debug\net8.0\ref\TareaPlatzi3Blackjack.dll

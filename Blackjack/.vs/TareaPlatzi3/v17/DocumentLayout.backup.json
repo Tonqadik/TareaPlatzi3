@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#proyectos\\TareaPlatzi3\\Blackjack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB106189-33D1-44AC-BD5F-8836B9AEBB91}|TareaPlatzi3Blackjack.csproj|c:\\c#proyectos\\tareaplatzi3\\blackjack\\tareaplatzi3blackjack.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EB106189-33D1-44AC-BD5F-8836B9AEBB91}|TareaPlatzi3Blackjack.csproj|solutionrelative:tareaplatzi3blackjack.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB106189-33D1-44AC-BD5F-8836B9AEBB91}|TareaPlatzi3Blackjack.csproj|c:\\c#proyectos\\tareaplatzi3\\blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB106189-33D1-44AC-BD5F-8836B9AEBB91}|TareaPlatzi3Blackjack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareaPlatzi3Blackjack",
+              "DocumentMoniker": "C:\\c#proyectos\\TareaPlatzi3\\Blackjack\\TareaPlatzi3Blackjack.csproj",
+              "RelativeDocumentMoniker": "TareaPlatzi3Blackjack.csproj",
+              "ToolTip": "C:\\c#proyectos\\TareaPlatzi3\\Blackjack\\TareaPlatzi3Blackjack.csproj",
+              "RelativeToolTip": "TareaPlatzi3Blackjack.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T04:17:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#proyectos\\TareaPlatzi3\\Blackjack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\c#proyectos\\TareaPlatzi3\\Blackjack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T03:19:48.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\c#proyectos\TareaPlatzi3\bin\Debug\net8.0\TareaPlatzi3.exe
+C:\c#proyectos\TareaPlatzi3\bin\Debug\net8.0\TareaPlatzi3.deps.json
+C:\c#proyectos\TareaPlatzi3\bin\Debug\net8.0\TareaPlatzi3.runtimeconfig.json
+C:\c#proyectos\TareaPlatzi3\bin\Debug\net8.0\TareaPlatzi3.dll
+C:\c#proyectos\TareaPlatzi3\bin\Debug\net8.0\TareaPlatzi3.pdb
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.AssemblyInfoInputs.cache
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.AssemblyInfo.cs
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.csproj.CoreCompileInputs.cache
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.dll
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\refint\TareaPlatzi3.dll
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.pdb
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\TareaPlatzi3.genruntimeconfig.cache
+C:\c#proyectos\TareaPlatzi3\obj\Debug\net8.0\ref\TareaPlatzi3.dll
